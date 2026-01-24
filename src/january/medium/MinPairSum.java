@@ -1,5 +1,7 @@
 package january.medium;
 
+import java.util.Arrays;
+
 public class MinPairSum {
     public int minPairSum(int[] nums) {
 
